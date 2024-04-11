@@ -1,0 +1,39 @@
+General Project Notes:
+
+Discussion with Cara:
+    Returning the best clew that you can find.
+    The weight that you are selecting for the cost function is going to determine 
+    how your algorithm is going value different candidates.
+
+    Can build an attention mechanism to focus on areas with more detail? 
+
+
+General Interpretation of the Project:
+
+    The overall goal of the project is to use an evolutionary algorithm to generate
+    solutions (instances of the clews on the image), for each clew we evalaute them using
+    the fitness/cost function, this considers the weights.
+
+    Weights are based on the 8 properties of the worms, so their location (2 params),
+    size and orientation (2 params), curvature (2 params), width (1 param) and colour (1 param).
+
+    We choose how the weights are evaluated.
+
+    Optimisation of the algorithm is the main purpose?
+
+    Stick with genetic algorithm.
+
+    1. We have a genetic algorithm implementation
+        - Create a population of clews.
+        We know a couple of things:
+        - information about each worm
+        - information about how each worm exists in relation to each other.
+        - information about the image
+    2. We use our cost function select what's correct or not
+        take all the information about the worms
+    3. Correct ones are used with crossover or mutation ect to form the next population
+    4. when we reach an overall fitness then we return the best clew? 
+
+    Requirements for the worms:
+    - Areas little change in intensity have big worms
+    - ...
