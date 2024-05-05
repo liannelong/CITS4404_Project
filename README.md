@@ -9,13 +9,9 @@ Brandon Ge (23813666@student.uwa.edu.au)\
 Peter Le (23193249@student.uwa.edu.au)\
 Li-Anne Long (23192171@student.uwa.edu.au)
 
----
-
 ## Description
 
 This respository contains all the relevant code developed for Group 1's submission. A Genetic Algorithm and complementary cost function have been developed as per the project specifications.
-
----
 
 ## Usage
 
