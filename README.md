@@ -24,4 +24,4 @@ This respository contains all the relevant code developed for Group 1's submissi
 > `# pip install imageio matplotlib scikit-learn scipy sympy`\
 > and are running the jupyter notebook on Python version 3.12.2.
 
-To test the developed Genetic Algorithm and cost function simply run all cells within the [a relative link](OurCamoWorm.ipynb) file and review the final clew outputted at the end of the notebook.
+To test the developed Genetic Algorithm and cost function simply run all cells within the [OurCamoWorm.ipynb](OurCamoWorm.ipynb) file and review the final clew outputted at the end of the notebook.
