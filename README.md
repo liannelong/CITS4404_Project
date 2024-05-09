@@ -15,7 +15,7 @@ Li-Anne Long (23192171@student.uwa.edu.au)
 ## Description
 
 > [!NOTE]
-> Alternative attmepts and experimentation for the GA and cost function can be found in the unmerged branches.
+> Alternative attempts and experimentation for the GA and cost function can be found in the unmerged branches.
 
 This respository contains all the relevant code developed for Group 1's submission. A Genetic Algorithm and complementary cost function have been developed as per the project specifications.
 
