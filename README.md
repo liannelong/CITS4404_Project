@@ -3,7 +3,9 @@
 > [!IMPORTANT]
 > This repository has been made public (at 11/05/24 0:00am) for assessment marking, and will revert to private upon the completion of the Unit. 
 
-Git Repository for the CITS4404 AI and Adaptive Systems group practical project.
+Git Repository for the CITS4404 AI and Adaptive Systems practical project.
+
+**Group Number: 1**
 
 **Authors:**\
 Monissha Dhandapani (23913296@student.uwa.edu.au)\
